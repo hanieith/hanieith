@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hanieith
+- 👀 I’m interested in developing my skills
+- 🌱 I’m currently learning python/javascript
+- 📫 How to reach me email: shkutkoff@gmail.com telegram: @Alexmoraan
