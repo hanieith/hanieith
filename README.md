@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hanieith
 - 👀 I’m interested in developing my skills
-- 🌱 I’m currently learning python/Django/JavaScript/Linux
+- 🌱 I’m currently learning python/JavaScript
 - 📫 How to reach me email: shkutkoff@gmail.com telegram: @Alexmoraan
